@@ -1,0 +1,6 @@
+golang.org/x/sys/unix
+go get github.com/jinzhu/gorm 
+go get github.com/jinzhu/gorm/dialects/postgres
+go get github.com/gin-gonic/gin
+go get github.com/dgrijalva/jwt-go
+go get github.com/joho/godotenv
